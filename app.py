@@ -28,6 +28,7 @@ personObj: dict = {"name": "Alice", "age": 25, "city": "New York"}
 print(type(personObj))
 print(personObj)
 
+
 # Set Type
 unique_numbers: set = {1, 2, 3, 4, 5}
 print(type(unique_numbers))
